@@ -1,0 +1,246 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "skills": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Zimeng Ma",
+    "email": "mazimeng@hotmail.com",
+    "phone": "(+86) 15010150604",
+    "location": {
+      "address": "Beijing, China"
+    }
+  },
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Ruby",
+        "Javascript",
+        "SQL"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Spring Framework",
+        "Grape",
+        "Activerecord",
+        "Rspec"
+      ],
+      "name": "Libraries and Frameworks"
+    },
+    {
+      "keywords": [
+        "Postgresql",
+        "Mysql",
+        "Redis",
+        "Oracle Database",
+        "Elasticsearch"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Debian",
+        "CentOS"
+      ],
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "Infrastructure"
+    }
+  ],
+  "education": [
+    {
+      "location": "UK",
+      "area": "Advanced Computing Science",
+      "studyType": "MSc",
+      "endDate": "2010",
+      "gpa": "",
+      "institution": "University of East Anglia",
+      "startDate": "2008"
+    },
+    {
+      "institution": "University of Portsmouth",
+      "location": "UK",
+      "studyType": "BSc",
+      "area": "Software Engineering",
+      "endDate": "2008",
+      "startDate": "2004"
+    }
+  ],
+  "work": [
+    {
+      "company": "UNICC",
+      "location": "Beijing, China",
+      "website": "",
+      "highlights": [
+        "Responsible for designing, developing, testing backend services for various projects.",
+        "Create CI pipeline and deploy scripts.",
+        "Set up and maintained Jenkins and Kubernetes cluster."
+      ],
+      "position": "Senior Software Engineer",
+      "startDate": "Dec 2010",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Worked as a full stack software engineer.",
+        "Developed a risk management module and a mark to market module.",
+        "Set up Jenkins."
+      ],
+      "company": "CICC",
+      "position": "Senior Software Engineer",
+      "location": "Beijing, China",
+      "startDate": "Oct 2014",
+      "endDate": "Dec 2016"
+    },
+    {
+      "highlights": [
+        "Developed and maintained an e-commerce system."
+      ],
+      "company": "PCITC",
+      "position": "Software Engineer",
+      "location": "Beijing, China",
+      "startDate": "Mar 2010",
+      "endDate": "Oct 2014"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [
+        "Java",
+        "Spring Framework",
+        "Postgresql"
+      ],
+      "name": "Private Equity System",
+      "description": "A system features enterprise management, fund management, investor management and vendor management."
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql",
+        "Elasticsearch"
+      ],
+      "name": "User Center",
+      "description": "A system centralizes user information collected from external systems."
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "Credit System",
+      "description": "A web based system managing enterprise credits."
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql",
+        "Redis"
+      ],
+      "name": "Identity Service",
+      "description": "A REST API to verify a person’s identity."
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "SMS Proxy",
+      "description": "An SMS API backed by multiple SMS providers."
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Goliath",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "P2P Life Insurance App",
+      "description": "An app for crowd funded life insurance."
+    },
+    {
+      "keywords": [
+        "Jenkins Pipeline"
+      ],
+      "name": "Continuous Integration Platform",
+      "description": "An app for crowd funded life insurance."
+    },
+    {
+      "keywords": [],
+      "name": "Kubernetes Cluster",
+      "description": "An Kubernetes cluster to support development of other projects."
+    },
+    {
+      "keywords": [
+        "Java",
+        "Mina"
+      ],
+      "name": "Access App",
+      "description": "A routing framework, despite the confusing name, with extendable business logic, developed to support communication between subsystems in IMS."
+    },
+    {
+      "keywords": [
+        "Java",
+        "Mina",
+        "Spring Framework",
+        "Protocol Buffers",
+        "Oracle Database"
+      ],
+      "name": "Investment Management System",
+      "description": "A large scale project consists of multiple subsystems including risk management, trading, algorithm ordering, monitoring, etc."
+    },
+    {
+      "keywords": [
+        "Java",
+        "Spring Framework",
+        "Oracle Database"
+      ],
+      "name": "Over-the-counter Derivative Trading System",
+      "description": "An evolved version of previous DTS rewritten in Java with more features including risk management, sending trade instructions, etc"
+    },
+    {
+      "keywords": [
+        "C#",
+        "NHibernate",
+        "MySQL"
+      ],
+      "name": "Derivative Trading System",
+      "description": "A web based system for traders, featuring client account management, client reports, trade booking and mark to market, etc"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "work",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
