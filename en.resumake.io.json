@@ -83,18 +83,18 @@
       "website": "",
       "highlights": [
         "Responsible for designing, developing, testing backend services for various projects.",
-        "Create CI pipeline and deploy scripts.",
-        "Set up and maintained Jenkins and Kubernetes cluster."
+        "Create CI pipeline and deployment scripts.",
+        "Set up and maintained Kubernetes cluster."
       ],
       "position": "Senior Software Engineer",
-      "startDate": "Dec 2010",
+      "startDate": "Dec 2016",
       "endDate": "Present"
     },
     {
       "highlights": [
         "Worked as a full stack software engineer.",
         "Developed a risk management module and a mark to market module.",
-        "Set up Jenkins."
+        "Set up and maintained CI pipeline."
       ],
       "company": "CICC",
       "position": "Senior Software Engineer",
