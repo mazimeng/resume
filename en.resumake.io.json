@@ -93,7 +93,7 @@
     {
       "highlights": [
         "Worked as a full stack software engineer.",
-        "Developed a risk management module and a mark to market module.",
+        "Developed web based systems, mainly in Java.",
         "Set up and maintained CI pipeline."
       ],
       "company": "CICC",
@@ -181,12 +181,12 @@
         "Jenkins Pipeline"
       ],
       "name": "Continuous Integration Platform",
-      "description": "An app for crowd funded life insurance."
+      "description": "Set up Jenkins to automate our development process."
     },
     {
       "keywords": [],
       "name": "Kubernetes Cluster",
-      "description": "An Kubernetes cluster to support development of other projects."
+      "description": "An Kubernetes cluster providing computing resources for other projects."
     },
     {
       "keywords": [

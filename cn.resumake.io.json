@@ -1,0 +1,246 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "skills": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "马子梦",
+    "email": "mazimeng@hotmail.com",
+    "phone": "(+86) 15010150604",
+    "location": {
+      "address": "中国北京"
+    }
+  },
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Ruby",
+        "Javascript",
+        "SQL"
+      ],
+      "name": "程序语言"
+    },
+    {
+      "keywords": [
+        "Spring Framework",
+        "Grape",
+        "Activerecord",
+        "Rspec"
+      ],
+      "name": "类库和框架"
+    },
+    {
+      "keywords": [
+        "Postgresql",
+        "Mysql",
+        "Redis",
+        "Oracle Database",
+        "Elasticsearch"
+      ],
+      "name": "数据库"
+    },
+    {
+      "keywords": [
+        "Debian",
+        "CentOS"
+      ],
+      "name": "操作系统"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "基础设施"
+    }
+  ],
+  "education": [
+    {
+      "location": "英国",
+      "area": "高级计算机科学",
+      "studyType": "硕士",
+      "endDate": "2010",
+      "gpa": "",
+      "institution": "东英吉利亚大学",
+      "startDate": "2008"
+    },
+    {
+      "institution": "朴茨茅斯大学",
+      "location": "英国",
+      "studyType": "学士",
+      "area": "软件工程",
+      "endDate": "2008",
+      "startDate": "2004"
+    }
+  ],
+  "work": [
+    {
+      "company": "中青信投控股有限公司",
+      "location": "中国北京",
+      "website": "",
+      "highlights": [
+        "负责设计，开发和测试后端服务。",
+        "创建持续集成流程和部署脚本。",
+        "搭建和维护Kubernetes集群。"
+      ],
+      "position": "高级软件工程师",
+      "startDate": "2016-12",
+      "endDate": "现在"
+    },
+    {
+      "highlights": [
+        "全栈工程师。",
+        "设计和开发基于Java和web的系统。",
+        "搭建和维护持续集成流程。"
+      ],
+      "company": "中国国际金融公司",
+      "position": "高级软件工程师",
+      "location": "中国北京",
+      "startDate": "2014-10",
+      "endDate": "2016-12"
+    },
+    {
+      "highlights": [
+        "开发和维护采购系统。"
+      ],
+      "company": "石化盈科信息技术有限责任公司",
+      "position": "软件工程师",
+      "location": "中国北京",
+      "startDate": "2010-03",
+      "endDate": "2014-10"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "keywords": [
+        "Java",
+        "Spring Framework",
+        "Postgresql"
+      ],
+      "name": "私募系统",
+      "description": "私募系统包括企业管，基金管理，投资者管理和服务商管理。"
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql",
+        "Elasticsearch"
+      ],
+      "name": "用户中心",
+      "description": "收集并集中外部系统中的用户信息。"
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "征信系统",
+      "description": "企业征信管理系统。"
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql",
+        "Redis"
+      ],
+      "name": "身份认证系统",
+      "description": "提供REST API来验证个人身份信息。"
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Puma",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "短信平台",
+      "description": "支持多后端SMS供应商的短信放送平台。"
+    },
+    {
+      "keywords": [
+        "Ruby",
+        "Goliath",
+        "Activerecord",
+        "Postgresql"
+      ],
+      "name": "互助健康保险",
+      "description": "众筹健康保险App"
+    },
+    {
+      "keywords": [
+        "Jenkins Pipeline"
+      ],
+      "name": "持续集成平台",
+      "description": "基于Jenkins Pipeline的开发部署自动平台。"
+    },
+    {
+      "keywords": [],
+      "name": "Kubernetes集群",
+      "description": "给其他项目提供服务器资源。"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Mina"
+      ],
+      "name": "Access App",
+      "description": "可扩展业务逻辑的路由框架来支持IMS项目中各子系统之间的通信。"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Mina",
+        "Spring Framework",
+        "Protocol Buffers",
+        "Oracle Database"
+      ],
+      "name": "Investment Management System",
+      "description": "大规模项目包含风险管理，交易，算法下单，实时监控等子系统。"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Spring Framework",
+        "Oracle Database"
+      ],
+      "name": "场外衍生品交易系统",
+      "description": "An evolved version of previous DTS rewritten in Java with more features including risk management, sending trade instructions, etc"
+    },
+    {
+      "keywords": [
+        "C#",
+        "NHibernate",
+        "MySQL"
+      ],
+      "name": "衍生品交易系统",
+      "description": "功能包含客户账户管理，客户报告，交易簿记和盯市等。"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "work",
+    "projects",
+    "education",
+    "awards"
+  ]
+}
