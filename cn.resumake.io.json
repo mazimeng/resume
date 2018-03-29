@@ -205,7 +205,7 @@
         "Oracle Database"
       ],
       "name": "Investment Management System",
-      "description": "大规模项目包含风险管理，交易，算法下单，实时监控等子系统。"
+      "description": "项目包含风险管理，交易，算法下单，实时监控等子系统。"
     },
     {
       "keywords": [
@@ -214,7 +214,7 @@
         "Oracle Database"
       ],
       "name": "场外衍生品交易系统",
-      "description": "An evolved version of previous DTS rewritten in Java with more features including risk management, sending trade instructions, etc"
+      "description": "DTS系统的进化版，使用Java重写，包含风控和下单等新功能。"
     },
     {
       "keywords": [
